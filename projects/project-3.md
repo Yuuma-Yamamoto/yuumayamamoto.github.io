@@ -11,9 +11,7 @@ labels:
 summary: UROV is short for Underwater Remotely Operated Vehicle. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 In this project, our team has created several mounts to our vehicle. 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
