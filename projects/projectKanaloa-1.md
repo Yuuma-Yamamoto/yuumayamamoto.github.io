@@ -13,10 +13,8 @@ summary: My team developed a robotic boat that moved unmaned at a demo in Hawaii
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/b1.png">
+  
 </div>
 
 Team Kanaloa is a robotics team at UH. The goal of the team is to build an autonomous vehicle to win in a competition. 
