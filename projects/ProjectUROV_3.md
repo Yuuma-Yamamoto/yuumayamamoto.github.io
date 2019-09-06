@@ -13,10 +13,8 @@ summary: UROV is short for Underwater Remotely Operated Vehicle
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/c1.JPG">
+  <img class="ui image" src="../images/c2.JPG">
 </div>
 
 Team Kanaloa is a robotics team at UH. The goal of the team is to build an autonomous vehicle to win in a competition. 
