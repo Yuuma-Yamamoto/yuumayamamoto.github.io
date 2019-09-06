@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/b2.PNG
 title: Kanaloa
 permalink: projects/Kanaloa
 # All dates must be YYYY-MM-DD format!
