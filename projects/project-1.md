@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Kanaloa
-permalink: Kanaloa
+permalink: projects/Kanaloa
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-01
 labels:
