@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/IMG_8564.JPG
 title: UROV
 permalink: projects/UROV
 # All dates must be YYYY-MM-DD format!
