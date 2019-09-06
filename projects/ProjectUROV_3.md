@@ -17,11 +17,11 @@ summary: UROV is short for Underwater Remotely Operated Vehicle
   <img class="ui image" src="../images/c2.JPG">
 </div>
 
-Team Kanaloa is a robotics team at UH. The goal of the team is to build an autonomous vehicle to win in a competition. 
+UROV is short for Underwater Remotely Operated Vehicle.  
 
 
 
-You can learn more at the [RIP Website](http://rip.eng.hawaii.edu/projects/team-kanaloa-ordnance-reef/).
+You can learn more at the [UROV Website](http://www2.hawaii.edu/~hanaia/UROV.html).
 
 
 
