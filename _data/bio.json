@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://yuumayamamoto.github.io/images/Capture.PNG",
     "email": "yuma2@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://yuumayamamoto.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,25 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "yuumayamamoto",
+        "url": "http://github.com/yuumayamamoto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Yuuma Yamamoto",
+        "url": "https://www.linkedin.com/in/yuuma-yamamoto-423810192/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "Engineering",
       "keywords": [
       ]
     },
@@ -58,7 +47,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Robotics",
       "level": "",
       "keywords": [
         "C",
@@ -70,14 +59,9 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Automation",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
