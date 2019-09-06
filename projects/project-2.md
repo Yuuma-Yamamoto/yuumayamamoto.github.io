@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Game
-permalink: Game
+permalink: projects/Game
 # All dates must be YYYY-MM-DD format!
 date: 2019-5/20
 labels:
