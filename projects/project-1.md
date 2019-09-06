@@ -23,7 +23,7 @@ Team Kanaloa is a robotics team at UH. The goal of the team is to build an auton
 
 
 
-You can learn more at the [UH Micromouse Website](http://rip.eng.hawaii.edu/projects/team-kanaloa-ordnance-reef/).
+You can learn more at the [RIP Website](http://rip.eng.hawaii.edu/projects/team-kanaloa-ordnance-reef/).
 
 
 
