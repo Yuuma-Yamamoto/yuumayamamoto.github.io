@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: Game
 permalink: projects/Game
 # All dates must be YYYY-MM-DD format!
-date: 2019-5/20
+date: 2019-05-20
 labels:
   
 summary: A text based game to defeat the dragon. 
