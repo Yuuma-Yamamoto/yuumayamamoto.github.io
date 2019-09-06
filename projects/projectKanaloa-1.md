@@ -13,7 +13,7 @@ summary: My team developed a robotic boat that moved unmaned at a demo in Hawaii
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/b1.png">
+  <img class="ui image" src="../images/b1.PNG">
   
 </div>
 
