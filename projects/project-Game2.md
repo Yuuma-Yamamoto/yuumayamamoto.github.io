@@ -13,7 +13,9 @@ summary: A text based game to defeat the dragon.
 
 
 
-The dragon slayer is an rpg where you have 5 days to train before you fight with the dragon. You are given 4 choices each day. Your choices will change the character's abilities and stats. After the 5 days you fight with the dragon. 
+The dragon slayer is an rpg where you have 5 days to train before you fight with the dragon. You are given 4 choices each day. Your choices will change the character's abilities and stats. After the 5 days you fight with the dragon. The player gets a couple of choices duirng the battle with the dragon. 
+
+This was coded in about a week. For that week it was almost streight coding. The hardest part of the game was all of the if and else statements I needed to put in. Considering all cases took a long time as well. The player will go through one path of all the paths that exists. there are more than 256 different paths in the game. Trying to come up with stories for each of the path was very challanging.  
  
 <img class="ui medium right floated rounded image" src="../images/a2.png">
 <img class="ui medium right floated rounded image" src="../images/a3.png">
