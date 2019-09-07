@@ -47,19 +47,17 @@
   ],
   "skills": [
     {
-      "name": "Robotics",
+      "name": "Coding",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "logic"
       ]
     },
     {
-      "name": "Automation",
+      "name": "Japanese",
       "level": "",
       "keywords": [
       ]
