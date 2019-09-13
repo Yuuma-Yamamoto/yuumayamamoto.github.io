@@ -1,51 +1,63 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Questioning the question? 
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 labels:
  
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+An example of a good question I found on stack overflow is “How do I declare and initialize an array in Java?” This is a good question because it is concise. It specifies which language he is trying to work in and also states the goal clearly. Thus the answer to the question is straightforward. Here a part of the answer. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+For primitive types:
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+```
+int[] myIntArray = new int[3]; int[] myIntArray = {1, 2, 3}; int[] myIntArray = new int[]{1, 2, 3};
+```
+From this the user can try out the code on their device and people with the same question can do the same. This question in theory should not be asked again. 
 
-Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
+Next, we will go over a question could be asked in a smarter way. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Help me to Get this code work 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+What is wrong with this code? i can get correct value? DrvUsg always getting zero. please help me to get work this code.
+```
 
-## In the context of engineering
+   	 Computer cmp = new Computer();
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+   	 string SysDrv = System.Environment.SystemDirectory.Substring(0, 2);
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+    	UInt64 TotalDrv = Convert.ToUInt64(cmp.FileSystem.GetDriveInfo(SysDrv).TotalSize / 1024 / 1024);
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+   	 UInt64 FreeDrv = Convert.ToUInt64(cmp.FileSystem.GetDriveInfo(SysDrv).AvailableFreeSpace / 1024 / 1024);
 
-## In the context of relationships
+  	  UInt64 UsedDrv = (TotalDrv - FreeDrv);
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+   	 UInt64 DrvUsg = Convert.ToUInt64((UsedDrv / TotalDrv) * 100);
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+   	 TrkDrvUsg.Value = (int)DrvUsg;
 
-Relationships have always been difficult, and by nature will continue to be so.
+   	 LblDrvUsg.Text = (String.Format("System drive usage: {0}%", DrvUsg));
 
-## Okay!
+```
+First of all, their grammar is wrong. It may have been that English was their second language, but they did not explicitly say that in the post. The post title is not even in a question format. It is unlikely that a hacker will help when they read “Help me to Get this code work” because the request is too general. A better way to ask this was to specify which language he was working in and to give what the expected value was. The person that answered this would have had to go through his code, understand it, and figure out what the correct value was. It was nice that this person was nice but from the article how to ask questions the smart way, the hacker would not have answered this post. 
 
-So back to the original premise; why is being one of the club officers so difficult?
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
+Being mindful of asking smarter questions is because it will help both parties, the asker and the helper. When the asker asks questions in a way that the helpers can easily understand, the helper does not need to gather more information from the asker and takes less time. The asker will get the solution to the problem faster without unnecessary hassle. As such, when asking smarter questions things move smoothly when compared to if the question was not asked in a smart way. 
 
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+
+
+
+
+Provided below are links used in this essay. 
+
+https://stackoverflow.com/questions/5280658/help-me-to-get-this-code-work
+
+
+https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java
+
+
