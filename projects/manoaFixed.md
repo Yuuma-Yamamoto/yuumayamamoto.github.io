@@ -1,0 +1,2 @@
+The projects page should include at least three projects. One of those projects should present the application you developed for this class. The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots. It should include a link to the Organization GitHub Page associated with the project for those who want to see the source code and learn more about it. All project pages should include at least one screen image.
+
