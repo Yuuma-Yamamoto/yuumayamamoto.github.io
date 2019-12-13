@@ -10,5 +10,4 @@ labels:
   - Final 
 ---
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you ever used command prompt before? It's an app on windows. It can be used to manage files and run commands on your computer. The first time I saw command prompt I was intimidated because all you see is some text and the rest of the thing you see is mostly blank black screen. You need to type in a command to do things in command prompt. typing dir and pressing eneter, the app will show you all of the files that are in that directory. command prompt may be intimidating to some users but once you learn how to use it and familiarize yourself with it, then one day there may come a day when you enjoy using command prompt. This is what happened to me. 
