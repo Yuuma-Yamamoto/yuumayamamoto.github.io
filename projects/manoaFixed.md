@@ -25,8 +25,6 @@ We used some woodwork as well. In this project, I learned how to use the jacksaw
 The challenges we faced in this project was the time constraints we had throughout the semester. Time was limited and the project class was not the only class I was taking. Also, time with our professors and assistants were limited so working around their schedule was also a little issue. We tried to overcome this issue by spending more time on the project. There were some nights when I stayed up late to finish some essay. Overall the project was a success and our team was able to gain some skill in the engineering field. 
 
 
-You can learn more at the [UROV Website](http://www2.hawaii.edu/~hanaia/UROV.html).
+You can learn more at the [manoa-fixed Website](https://github.com/manoa-fixed).
 
-
-The projects page should include at least three projects. One of those projects should present the application you developed for this class. The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots. It should include a link to the Organization GitHub Page associated with the project for those who want to see the source code and learn more about it. All project pages should include at least one screen image.
 
