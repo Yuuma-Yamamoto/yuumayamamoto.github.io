@@ -9,8 +9,8 @@ labels:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/e2.PNG">
-   <img class="ui image" src="../images/e1.jfif">
+  <img class="ui image" src="../images/es6.jpg">
+   <img class="ui image" src="../images/es7.jpg">
 </div>
 
 An example of a good question I found on stack overflow is “How do I declare and initialize an array in Java?” This is a good question because it is concise. It specifies which language he is trying to work in and also states the goal clearly. Thus the answer to the question is straightforward. Here a part of the answer. 
