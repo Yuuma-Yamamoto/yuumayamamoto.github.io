@@ -9,7 +9,10 @@ labels:
   - Answers
   - coding 
 ---
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/e2.PNG">
+   <img class="ui image" src="../images/e1.jfif">
+</div>
 My interest in software engineering is making apps, AI, and the development of future software and hardware. I would like to make several apps throughout my life. I hope to use these apps myself. I also want to learn about artificial intelligence at UH. I may cultivate my AI to be a professional at some game. I am really interested in the future of computer software and hardware. 
 
 ### My first app 
