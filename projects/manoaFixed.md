@@ -16,6 +16,12 @@ summary: Manoa fixed is an online tool used to report issues that are observed a
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/m2.png">
   <img class="ui image" src="../images/M3.PNG">
+  <img class="ui image" src="../images/m4.PNG">
+  <img class="ui image" src="../images/m5.PNG">
+  <img class="ui image" src="../images/m6.PNG">
+  <img class="ui image" src="../images/m7.PNG">
+  <img class="ui image" src="../images/m8.PNG">
+  <img class="ui image" src="../images/m9.PNG">
 </div>
 
 The University of Hawaii at Manoa faces many issues throughout its campus. The staff works hard to maintain a clean and safe environment for the students. However the eyes of the staff cannot see everything, so they may miss some issues. This is where this app comes in so that students can upload their issues when they see them. With this, the university can get more informed reports in a timely manner. 
