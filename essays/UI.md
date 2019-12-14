@@ -8,6 +8,11 @@ labels:
   - Software Engineering
   - Learning
 ---
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/e2.PNG">
+   <img class="ui image" src="../images/e1.jfif">
+</div>
 This week I learned about UI frameworks. I thought that UI frameworks are relatively easy to get started. However, learning UI frameworks was not a smooth one. Some of the troubles I had initially with UI frameworks were getting the picture, alignment of words and implementing grids. But in the end, my experience with UI frameworks was good overall. 
 
 ### UI framework
