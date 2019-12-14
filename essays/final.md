@@ -10,7 +10,7 @@ labels:
   - Final 
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/e1.jfif">
+  <img class="ui image" src="../images/e2.PNG">
 </div>
 
 Have you ever used a command prompt before? It's an app on windows. It can be used to manage files and run commands on your computer. The first time I saw command prompt I was intimidated by it because all you see is a little bit of text and the rest is mostly just a blank black screen. You need to type in a command to do things in command prompt. For example, if you type dir and pressing enter, the app will show you all of the files that are in that directory. Command prompt may be intimidating to some users but once you learn how to use it and familiarize yourself with it, then one day there may come a day when you enjoy using a command prompt. This is what happened to me. I took a class called ICS 314 at UH Manoa. I will share with you my experience in the class. Some of the topics I learned were functional programming, coding standards, and testing. I will show you how you can improve your coding skills, and how to do it with a team. 
