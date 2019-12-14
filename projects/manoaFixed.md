@@ -3,13 +3,14 @@ layout: project
 type: project
 image: images/f.png
 title: Manoa Fixed 
-permalink: projects/UROV
+permalink: projects/MF
 # All dates must be YYYY-MM-DD format!
-date: 2017-07-01
+date: 2019-12-15
 labels:
-  - Robotics
+  - Software
+  - Web design
   
-summary: UROV is short for Underwater Remotely Operated Vehicle
+summary: Manoa fixed is an online tool used to report issues that are observed at the University of Hawaii at Manoa. 
 ---
 
 <div class="ui medium rounded images">
