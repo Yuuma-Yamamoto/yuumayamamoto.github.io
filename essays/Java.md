@@ -9,8 +9,8 @@ labels:
   - Learning
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/e2.PNG">
-   <img class="ui image" src="../images/e1.jfif">
+  <img class="ui image" src="../images/es5.png">
+   <img class="ui image" src="../images/es4.jpg">
 </div>
 This was the first time I learned JavaScript. I felt that parts of the tutorials were hard. The tutorial was challenging because you could not move on until you finished the current page. I saw some differences from the coding languages I had learned from the past. Practice WODs, in my opinion, was not as helpful as I thought it would be. 
 
