@@ -55,9 +55,9 @@ Being mindful of asking smarter questions is because it will help both parties, 
 
 Provided below are links used in this essay. 
 
-https://stackoverflow.com/questions/5280658/help-me-to-get-this-code-work
+[Link 1](https://stackoverflow.com/questions/5280658/help-me-to-get-this-code-work)
 
 
-https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java
+[Link 2](https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java) 
 
 
