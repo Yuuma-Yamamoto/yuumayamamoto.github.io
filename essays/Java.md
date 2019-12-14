@@ -8,7 +8,10 @@ labels:
   - Software Engineering
   - Learning
 ---
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/e2.PNG">
+   <img class="ui image" src="../images/e1.jfif">
+</div>
 This was the first time I learned JavaScript. I felt that parts of the tutorials were hard. The tutorial was challenging because you could not move on until you finished the current page. I saw some differences from the coding languages I had learned from the past. Practice WODs, in my opinion, was not as helpful as I thought it would be. 
 
 ### Comparing my experiences 
