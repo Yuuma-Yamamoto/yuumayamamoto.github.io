@@ -46,6 +46,7 @@ What is wrong with this code? i can get correct value? DrvUsg always getting zer
 ```
 First of all, their grammar is wrong. It may have been that English was their second language, but they did not explicitly say that in the post. The post title is not even in a question format. It is unlikely that a hacker will help when they read “Help me to Get this code work” because the request is too general. A better way to ask this was to specify which language he was working in and to give what the expected value was. The person that answered this would have had to go through his code, understand it, and figure out what the correct value was. It was nice that this person was nice but from the article how to ask questions the smart way, the hacker would not have answered this post. 
 
+### conclusion 
 
 Being mindful of asking smarter questions is because it will help both parties, the asker and the helper. When the asker asks questions in a way that the helpers can easily understand, the helper does not need to gather more information from the asker and takes less time. The asker will get the solution to the problem faster without unnecessary hassle. As such, when asking smarter questions things move smoothly when compared to if the question was not asked in a smart way. 
 
