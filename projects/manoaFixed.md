@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/m1.PNG
+image: images/f.png
 title: Manoa Fixed 
 permalink: projects/UROV
 # All dates must be YYYY-MM-DD format!
