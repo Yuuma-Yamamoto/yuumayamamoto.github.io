@@ -12,7 +12,7 @@ labels:
 summary: UROV is short for Underwater Remotely Operated Vehicle
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/m2.png">
   <img class="ui image" src="../images/M3.PNG">
 </div>
